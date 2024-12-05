@@ -1,5 +1,13 @@
 <template>
-  <div class="form-container">
+  <div class="bg-blue-600 h-[50vh]">
+dfgdfg
+  </div>
+  <div class="">
+
+  </div>
+  <h1>Dijikta's Algorithm Calculator</h1>
+  <div>Discovering Optimal Routes Through Nodes Using Dijksta Method</div>
+  <!-- <div class="form-container">
     <h2>Shortest Path Optimizer</h2>
     <form @submit.prevent="handleSubmit">
       <div>
@@ -21,7 +29,7 @@
     </form>
 
     <p v-if="error" class="error">{{ error }}</p>
-  </div>
+  </div> -->
 </template>
 
 <script lang="ts">
